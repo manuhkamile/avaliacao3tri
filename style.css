@@ -1,15 +1,15 @@
 body{
-    background: #ffe4b8;
+    background: #1db63e;
 }
 h1{
     text-align: center;
     font-size: 40px;
-    color:#e7e4d5;
+    color:#6ee796;
 }
 p{
     text-align: center;
     font-size: 30px;
-    color: #dad1a6;
+    color: #32cf6e;
 }
 img{
     width: 300px;
@@ -28,7 +28,7 @@ display: flex;
     margin-left: 500px;
 }
 .item_lista_cabecalho{
-    color: #d3c8b4;
+    color: #a9ffe2;
     list-style:none ;
     text-transform: uppercase;
     font-size: 10px;
